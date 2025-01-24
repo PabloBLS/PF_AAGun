@@ -1,0 +1,8 @@
+2024/10/07-00:16:35.365 496c Reusing MANIFEST C:/Users/pablo/Documents/Unreal Projects/AA_Gun/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/07-00:16:35.365 496c Recovering log #7
+2024/10/07-00:16:35.366 496c Reusing old log C:/Users/pablo/Documents/Unreal Projects/AA_Gun/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2024/10/07-00:28:28.189 4398 Level-0 table #11: started
+2024/10/07-00:28:28.190 4398 Level-0 table #11: 0 bytes OK
+2024/10/07-00:28:28.192 4398 Delete type=0 #7
+2024/10/07-00:28:28.192 4398 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/10/07-00:28:28.192 4398 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
