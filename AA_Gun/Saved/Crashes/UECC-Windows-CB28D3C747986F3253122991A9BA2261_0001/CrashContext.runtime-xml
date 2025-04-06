@@ -29,7 +29,7 @@
 		<DeploymentName>UE_5.3</DeploymentName>
 		<EngineVersion>5.3.2-29314046+++UE5+Release-5.3</EngineVersion>
 		<EngineCompatibleVersion>5.3.2-29314046+++UE5+Release-5.3</EngineCompatibleVersion>
-		<CommandLine>C:/Users/pablo/Documents/GitHub/PF_AAGun/AA_Gun/AA_Gun.uproject -AUTH_LOGIN=unused -AUTH_PASSWORD=d5901afb751b404d9b5a28d83e54891a -AUTH_TYPE=exchangecode -epicapp=UE_5.3 -epicenv=Prod -EpicPortal -epicusername=PabloBallaisFX -epicuserid=e7f80379a59d4c47a4514d68319baaa9 -epiclocale=es-ES -epicsandboxid=ue</CommandLine>
+		<CommandLine>CommandLineRemoved</CommandLine>
 		<LanguageLCID>0</LanguageLCID>
 		<AppDefaultLocale>es-ES</AppDefaultLocale>
 		<BuildVersion>++UE5+Release-5.3-CL-29314046</BuildVersion>
